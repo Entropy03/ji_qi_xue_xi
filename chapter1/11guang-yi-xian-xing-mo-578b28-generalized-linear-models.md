@@ -16,5 +16,5 @@ $$
 ```
   reg.coef_ //斜率
   reg.intercept_ //截距
-  r-squared //r 的平方  最大为1 越接近一 性能越好 
+  r-squared //r 的平方  最大为1 越接近一 性能越好  性能指标之一
 ```

@@ -14,7 +14,9 @@ $$
 
 [引用 文档](http://scikit-learn.org/stable/modules/linear_model.html "sklearn 文档")
 ```
-  reg.coef_ //斜率
-  reg.intercept_ //截距
-  r-squared //r 的平方  最大为1 越接近一 性能越好  性能指标之一
+  slope :reg.coef_ //斜率
+  intercept ;reg.intercept_ //截距
+  r-squared : reg.score(f,t) //r 的平方  最大为1 越接近一 性能越好  性能指标之一
 ```
+
+### 如何评估线性回归

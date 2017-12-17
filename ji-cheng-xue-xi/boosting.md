@@ -11,6 +11,6 @@ boosting
 2.合并规则  加权平均值
 如何加权？
  
-```
- error
-```
+###error 如何定义误差
+ 错误匹配 mismatches 
+ 误差率或误差比例

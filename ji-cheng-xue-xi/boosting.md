@@ -1,6 +1,5 @@
 ##boosting 算法
-![](/assets/31170C58-9CAC-4317-884A-77A4152769BD.png)
-
+![](/assets/boosting.png)
 
 
 ### 给定了一个训练集
@@ -19,8 +18,14 @@
 对整个时间步进行这样的处理，不断寻找每个时间步
 存在微小误差 ε(t) 的假设 h(t)。不断构造新的分布。
 最后输出最终假设。
+AdaBoost算法的具体描述如下：
+假定X表示样本空间，Y表示样本类别标识集合，假设是二值分类问题，这里限定Y={-1,+1}。令S={(Xi,yi)|i=1,2,…,m}为样本训练集，其中Xi∈X，yi∈Y。
+①:始化m个样本的权值，假设样本分布Dt为均匀分布：Dt(i)=1/m，Dt(i)表示在第t轮迭代中赋给样本(xi,yi)的权值。
+②:令T表示迭代的次数。
 
 
+![](http://img.blog.csdn.net/20131108110611359?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2hpdGVpbmJsdWU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](http://img.blog.csdn.net/20131108110527796?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2hpdGVpbmJsdWU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 ####怎么得到分布
 
 

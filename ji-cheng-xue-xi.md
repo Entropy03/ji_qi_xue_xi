@@ -6,7 +6,10 @@
 1.挑选子集 遵循均匀原则
 2.合并规则  平均值
 
-####boosting
+####boosting [文档](http://blog.csdn.net/whiteinblue/article/details/14518773)
+
+>Boost(推进)，adaboost（adapt boost）自适应推进算法：Adaboost算法是机器学习中一种比较重要的特征分类算法，已被广泛应用人脸表情识别、图像检索等应用中。就目前而言，对Adaboost算法的研究以及应用大多集中于分类问题，在一些回归问题上也有所应用。Adaboost主要解决的问题有: 两类问题、多类单标签问题、多类多标签问题、回归问题。Boost(推进)，adaboost（adapt boost）自适应推进算法：Adaboost算法是机器学习中一种比较重要的特征分类算法，已被广泛应用人脸表情识别、图像检索等应用中。就目前而言，对Adaboost算法的研究以及应用大多集中于分类问题，在一些回归问题上也有所应用。Adaboost主要解决的问题有: 两类问题、多类单标签问题、多类多标签问题、回归问题。
+
 1.挑选子集 hardst example
 >寻找最难的示例 不去想规则应用于已知分类 而是专注于目前无法分类的示例
 

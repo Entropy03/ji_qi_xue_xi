@@ -7,7 +7,7 @@
   * [1.1.广义线性模型\(Generalized Linear Models\)](chapter1/11guang-yi-xian-xing-mo-578b28-generalized-linear-models.md)
 * [监督学习－ 基于实例学习](jian-du-xue-xi-ff0d-knn.md)
 * [评估指标](ping-gu-zhi-biao.md)
-* 决策树
+* [决策树](jue-ce-shu.md)
 * 贝叶斯
 * 神经网络
 * 支持向量机

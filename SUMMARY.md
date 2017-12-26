@@ -10,4 +10,5 @@
 * [集成学习](ji-cheng-xue-xi.md)
   * [Boosting](ji-cheng-xue-xi/boosting.md)
   * [boosting 示例 ](ji-cheng-xue-xi/boosting-shi-li.md)
+  * [置信度](ji-cheng-xue-xi/zhi-xin-du.md)
 

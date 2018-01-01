@@ -8,11 +8,12 @@
 * [监督学习－ 基于实例学习](jian-du-xue-xi-ff0d-knn.md)
 * [评估指标](ping-gu-zhi-biao.md)
 * [决策树](jue-ce-shu.md)
-* 贝叶斯
+* [贝叶斯](bei-xie-si.md)
 * 神经网络
-* 支持向量机
+* [支持向量机](zhi-chi-xiang-liang-ji.md)
 * [集成学习](ji-cheng-xue-xi.md)
   * [Boosting](ji-cheng-xue-xi/boosting.md)
   * [boosting 示例 ](ji-cheng-xue-xi/boosting-shi-li.md)
   * [置信度与过拟合](ji-cheng-xue-xi/zhi-xin-du.md)
+* [统计基础](tong-ji-ji-chu.md)
 
